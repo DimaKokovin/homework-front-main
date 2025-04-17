@@ -8,9 +8,14 @@
     "@testing-library/user-event": "^13.2.1",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
+<<<<<<< HEAD
     "@types/react": "^18.3.20",
     "@types/react-dom": "^18.0.0",
     "add": "^2.0.6",
+=======
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+>>>>>>> 5bb80b0b4aec12f88b709fb706d227f2e8792c7b
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -42,7 +47,10 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "eslint-config-react-app": "^7.0.1",
+=======
+>>>>>>> 5bb80b0b4aec12f88b709fb706d227f2e8792c7b
     "prettier": "3.0.0"
   }
 }
