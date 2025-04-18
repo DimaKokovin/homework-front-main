@@ -31,7 +31,6 @@ export const UserList = (props:UserListPropsType ) => {
     <div id={'hw01-users'}>
       <h2>User List:</h2>
 
-
       <ul>
         {props.users.map((user) => ( // ВСЕ ТОВАРЫ В СТРАНУ ПРИЕЗЖАЮТ В КОНТЕЙНЕРАХ, А В РЕАКТЕ...
           <li key={user.id} id={`hw01-user-${user.id}`}>
@@ -40,7 +39,6 @@ export const UserList = (props:UserListPropsType ) => {
           </li>
         ))}
     </ul>
-
     </div>
   );
 };
